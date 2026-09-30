@@ -1,0 +1,23 @@
+Makefile
+
+# Cygwin
+*.dll
+*.exe
+
+# Compiled Object files
+*.o
+*.o-*
+
+# Compiled Dynamic libraries
+*.so
+
+# Compiled static libraries
+*.a
+
+# CMake
+*.cmake
+CMakeFiles/
+CMakeCache.txt
+
+# GTest
+*.pc
