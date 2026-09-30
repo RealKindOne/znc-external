@@ -4,6 +4,9 @@ Makefile
 *.dll
 *.exe
 
+# Linux
+tests/znc-external-tests
+
 # Compiled Object files
 *.o
 *.o-*
